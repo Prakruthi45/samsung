@@ -6,8 +6,7 @@ pipeline {
             steps {
                 echo 'Hello World'
                  echo 'i am pavi'
-                 echo 'mock devops'
-                 echo 'hello hai'
+                 echo 'mock devop'
                 
             }
         }
